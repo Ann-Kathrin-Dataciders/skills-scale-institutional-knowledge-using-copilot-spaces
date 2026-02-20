@@ -139,7 +139,7 @@ Data Analysts provide actionable metrics and insights that support evidence-base
 - Set up and maintain analytics dashboards and reports
 - Analyze usage patterns, quality signals, and performance data
 - Provide data-driven insights for prioritization decisions
-- Validate hypothesis and measure feature impact
+- Validate hypotheses and measure feature impact
 - Support A/B testing and experimentation
 
 ### Goals
