@@ -14,11 +14,16 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA/Testing**: validate quality and acceptance criteria.
+- **Scrum Master**: facilitates agile ceremonies, removes blockers, coaches on agile practices.
+- **User Experience Lead**: ensures user-centric design, conducts usability reviews.
+- **Data Analyst**: tracks metrics, provides insights, validates outcomes.
+- **Stakeholder Champion**: represents external stakeholders, manages communication and expectations.
+
+*See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detailed role descriptions.*
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -36,10 +41,15 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
-- Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
-- Monthly stakeholder updates
-- Ad-hoc escalations as needed
+- **Daily standups**: facilitated by Scrum Master, attended by delivery team
+- **Weekly PM + PdM sync**: alignment on priorities and roadmap
+- **Bi-weekly delivery demos**: show progress to stakeholders, facilitated by Scrum Master
+- **Sprint planning**: led by Scrum Master, with PdM and team participation
+- **Sprint retrospectives**: facilitated by Scrum Master for continuous improvement
+- **Monthly stakeholder updates**: coordinated by Stakeholder Champion and PM
+- **Metric reviews**: Data Analyst presents insights to PM and PdM
+- **UX reviews**: User Experience Lead collaborates with PdM and Developers on design
+- **Ad-hoc escalations**: as needed through defined escalation paths
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
