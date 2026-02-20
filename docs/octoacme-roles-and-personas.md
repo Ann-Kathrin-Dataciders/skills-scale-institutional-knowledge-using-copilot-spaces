@@ -75,6 +75,114 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Scrum Masters facilitate agile ceremonies, shield the team from distractions, and promote iterative improvement. They act as servant leaders, coaching teams on agile values and removing blockers that impede progress.
+
+### Responsibilities
+- Organize and facilitate daily standups, sprint planning, retrospectives, and sprint reviews
+- Remove impediments and blockers that prevent team progress
+- Coach the team on agile principles and self-organization
+- Foster continuous improvement through retrospectives and action items
+- Ensure agile practices are followed consistently
+- Protect the team from scope creep and external disruptions
+
+### Goals
+- Enable team self-organization and accountability
+- Maximize team velocity and reduce waste
+- Create a sustainable pace of delivery
+- Build a culture of transparency and continuous learning
+
+### Typical Communication
+- Daily standups to surface blockers and progress
+- Retrospective facilitation and action item tracking
+- Coordination with Project Manager on scheduling and dependencies
+- Collaboration with Product Manager on backlog refinement
+
+---
+
+## User Experience Lead
+
+### Role Summary
+User Experience Leads ensure user-centric perspectives are integrated throughout the product lifecycle. They conduct usability reviews, gather user feedback, and advocate for design excellence and accessibility.
+
+### Responsibilities
+- Conduct usability testing and user research
+- Create and maintain design systems and UI/UX guidelines
+- Review feature specifications for user experience considerations
+- Gather and synthesize user feedback into actionable insights
+- Collaborate on acceptance criteria to ensure usability standards
+- Advocate for accessibility and inclusive design
+
+### Goals
+- Deliver intuitive, accessible user experiences
+- Reduce user friction and improve satisfaction scores
+- Ensure design consistency across features
+- Validate solutions with real user feedback
+
+### Typical Communication
+- Design reviews and feedback sessions with Developers
+- Collaboration with Product Manager on feature specifications
+- Usability findings and recommendations
+- Participation in sprint planning and demos
+
+---
+
+## Data Analyst
+
+### Role Summary
+Data Analysts provide actionable metrics and insights that support evidence-based decision making. They set up dashboards, track key performance indicators, and validate outcomes against project goals.
+
+### Responsibilities
+- Define and track relevant KPIs and success metrics
+- Set up and maintain analytics dashboards and reports
+- Analyze usage patterns, quality signals, and performance data
+- Provide data-driven insights for prioritization decisions
+- Validate hypothesis and measure feature impact
+- Support A/B testing and experimentation
+
+### Goals
+- Enable data-informed decisions across the team
+- Improve visibility into project health and product performance
+- Identify trends and opportunities for optimization
+- Measure and communicate impact of delivered features
+
+### Typical Communication
+- Regular metric reviews with PM and Product Manager
+- Dashboard demos and insights sharing
+- Data requirements gathering with Developers
+- Validation reports on feature outcomes
+
+---
+
+## Stakeholder Champion
+
+### Role Summary
+Stakeholder Champions represent external stakeholders and ensure their feedback and requirements reach the delivery team. They act as a bridge between the project team and external parties, managing expectations and communication.
+
+### Responsibilities
+- Gather and prioritize stakeholder needs and feedback
+- Communicate project status, timelines, and changes to stakeholders
+- Represent stakeholder interests in planning and prioritization
+- Manage stakeholder expectations and resolve concerns
+- Coordinate stakeholder reviews and approvals
+- Escalate critical stakeholder issues to PM and Product Manager
+
+### Goals
+- Maintain stakeholder satisfaction and engagement
+- Ensure stakeholder requirements are clearly understood
+- Prevent misalignment between delivery and stakeholder expectations
+- Facilitate smooth collaboration between internal and external parties
+
+### Typical Communication
+- Regular stakeholder updates on project status
+- Stakeholder meetings for requirements gathering
+- Escalation to PM and Product Manager on conflicts or blockers
+- Collaboration with Developers on implementation questions
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
